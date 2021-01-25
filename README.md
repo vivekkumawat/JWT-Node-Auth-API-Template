@@ -9,4 +9,4 @@ A JWT &amp; Node.js based Auth API Template
 
 ## How to setup
 1. Install node.js
-2. Run <pre>npm install</pre> inside code directory
+2. Run this command inside code directory <pre>npm install</pre> 
